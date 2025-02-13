@@ -9,11 +9,12 @@
 
 Ingresamos a la página **AWS Academy** y creamos una instancia:
 
-![Imagen 1](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20091052.jpg)
+![Captura de pantalla 2025-02-13 091052](https://github.com/user-attachments/assets/bb7d6064-d05c-4f2b-9ba5-aa72c629fbd2)
 
 Luego generamos una llave:
 
-![Imagen 2](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20091115.jpg)
+![Captura de pantalla 2025-02-13 091115](https://github.com/user-attachments/assets/0fb7dd7a-bda7-4556-ae68-eb719ed3868f)
+
 
 Una vez creada la instancia, vamos a la sección de **Instancias** para visualizarla:
 
@@ -24,19 +25,23 @@ Una vez creada la instancia, vamos a la sección de **Instancias** para visualiz
 
 Hacemos clic derecho sobre la instancia recién creada y seleccionamos **Conectar**:
 
-![Imagen 3](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20091410.jpg)
+![Captura de pantalla 2025-02-13 091410](https://github.com/user-attachments/assets/a4e190f7-c18c-4eaa-8651-582975f32163)
+
 
 Para conectarnos a la instancia, seleccionamos la opción **Cliente SSH** y copiamos el comando que aparece en "Ejemplo":
 
-![Imagen 4](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20091818.jpg)
+![Captura de pantalla 2025-02-13 091818](https://github.com/user-attachments/assets/5aa7df12-3ac2-4716-93d2-a462436dfab1)
+
+
 
 Abrimos **PowerShell** y pegamos el comando copiado:
 
-![Imagen 5](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20091807.jpg)
+![Captura de pantalla 2025-02-13 091807](https://github.com/user-attachments/assets/a3d96a04-c298-4d3f-91ab-129bbd446b81)
+
 
 Al ejecutar el comando, se nos preguntará si estamos seguros de conectarnos. Respondemos **Yes** para completar la conexión:
 
-![Imagen 6](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092030.jpg)
+
 
 ---
 
@@ -44,17 +49,21 @@ Al ejecutar el comando, se nos preguntará si estamos seguros de conectarnos. Re
 
 Actualizamos el sistema utilizando los siguientes comandos:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092132.jpg)  
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092237.jpg)
+![Captura de pantalla 2025-02-13 092132](https://github.com/user-attachments/assets/dcdaee6a-3bae-41a1-870f-2d32ebd4ba8f)
+![Captura de pantalla 2025-02-13 092237](https://github.com/user-attachments/assets/6ef05e0b-fd3b-4a0e-ade8-ae2788acb95e)
+
 
 Instalamos **Asciinema** y **figlet** con el siguiente comando:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092340.jpg)  
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092445.jpg)
+
+![Captura de pantalla 2025-02-13 092340](https://github.com/user-attachments/assets/d2022f80-2c02-466e-8ef5-c979940f67ba)
+![Captura de pantalla 2025-02-13 092445](https://github.com/user-attachments/assets/83f172e8-2daa-407a-8f7a-fc2177c6549e)
+
 
 Verificamos la instalación con el siguiente comando:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092536.jpg)
+![Captura de pantalla 2025-02-13 092536](https://github.com/user-attachments/assets/9fe4c0d2-8280-465d-bed6-262828d06d45)
+
 
 ---
 
@@ -62,16 +71,17 @@ Verificamos la instalación con el siguiente comando:
 
 Iniciamos la grabación de la sesión de terminal:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092802.jpg)
+![Captura de pantalla 2025-02-13 092802](https://github.com/user-attachments/assets/9622dbd8-f3e3-4fdf-85bf-37e391f5b6fa)
 
 Ejecutamos los comandos necesarios para actualizar el sistema y las herramientas básicas:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092902.jpg)  
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20092920.jpg)
+![Captura de pantalla 2025-02-13 092902](https://github.com/user-attachments/assets/bd5befa5-b375-415c-a629-8e62ba9fe7b0)
+![Captura de pantalla 2025-02-13 092920](https://github.com/user-attachments/assets/d6a7820f-cf4d-4a3f-be39-092ff3ede426)
 
 Detenemos la grabación con el comando correspondiente:
 
-![Comando](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20093000.jpg)
+![Captura de pantalla 2025-02-13 093000](https://github.com/user-attachments/assets/66924b07-d2e1-444d-9644-4cf24ddbd14b)
+
 
 ---
 
@@ -79,6 +89,7 @@ Detenemos la grabación con el comando correspondiente:
 
 Al finalizar, compartimos el enlace generado por Asciinema:
 
-![Enlace de Asciinema](file:///D:/Descargas/Captura%20de%20pantalla%202025-02-13%20093042.jpg)
+![Captura de pantalla 2025-02-13 093042](https://github.com/user-attachments/assets/4a1e9ee3-eb22-464b-8901-e175d1d10a8d)
+
 
 **Link del video:** [Enlace al video](https://asciinema.org/a/703249)
