@@ -93,3 +93,5 @@ Al finalizar, compartimos el enlace generado por Asciinema:
 
 
 **Link del video:** [Enlace al video](https://asciinema.org/a/703249)
+
+**Link del video:** [Enlace al video](https://asciinema.org/a/sFaU9YDSKybAL5WMWsxEsgix5)
